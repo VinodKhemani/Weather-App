@@ -298,7 +298,7 @@ div#txt {
   font-family: "Raleway", sans-serif;
   font-size: 80px;
   font-weight: 100;
-  margin: 0 40px;
+  margin: 175px 171px 12px -59px;
 }
 
 .temperature p span {
@@ -536,10 +536,10 @@ div#txt {
     padding: 0;
   }
   .dmy {
-    padding: 0;
+    padding: 40px;
     margin-bottom: 35px;
     text-align: center;
-    width: 100%;
+    width: 75%;
   }
   div#txt {
     font-size: 30px;
@@ -557,6 +557,8 @@ div#txt {
   .temperature p {
     font-size: 60px;
     padding-bottom: 15px;
+    padding-left: 176px;
+    padding-right: 175px;
   }
   .forecast-icon img {
     width: 65px;
@@ -573,7 +575,7 @@ div#txt {
     margin-top: 60px;
   }
   .mb-icon {
-    top: 20% !important;
+    top: 12% !important;
     display: block !important;
   }
   .forecast-icon,
